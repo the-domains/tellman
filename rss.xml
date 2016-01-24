@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tellman]]></title>
-        <description><![CDATA[Tellman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[I AM TELLMAN]]></title>
+        <description><![CDATA[I AM TELLMAN]]></description>
+        <link>https://thegrid.ai/tellman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 17:35:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 17:41:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tellman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>My name is Tellman Harold Knudson. </p>]]></description>
-            <link>undefinedd8abc17d-5144-4437-8c2f-94def2a87864/index.html</link>
+            <link>https://thegrid.ai/tellman/d8abc17d-5144-4437-8c2f-94def2a87864/index.html</link>
             <guid isPermaLink="false">d8abc17d-5144-4437-8c2f-94def2a87864</guid>
-            <pubDate>Sun, 24 Jan 2016 17:35:38 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 17:41:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
